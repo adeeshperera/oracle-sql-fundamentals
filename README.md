@@ -63,38 +63,6 @@ Simple Oracle Database Express Edition setup using Docker for consistent learnin
 docker exec -it oracle-xe sqlplus system/oracle123@XEPDB1
 ```
 
-## 📖 How to Use This Repository
-
-### For Beginners
-
-1. Start with **02-Sample-Data** to understand the database structure
-2. Progress through **03-Viewing-Data** for basic SELECT operations
-3. Practice with **04-Quiz** exercises
-4. Continue sequentially through numbered folders
-
-### For Intermediate Users
-
-- Jump to specific topics like **09-Joins** or **10-Functions**
-- Use **08-Aggregate-Function-and-Grouping** for reporting queries
-- Practice **11-Subqueries** for complex data retrieval
-
-### For Advanced Users
-
-- Focus on **12-Inserting-Updating-and-Deleting-Data** for data manipulation
-- Master **13-Creating-Altering-and-Dropping-Tables** for schema design
-- Combine concepts from multiple modules for real-world scenarios
-
-## 🎯 Learning Objectives
-
-By completing this repository, you will master:
-
-- **Basic SQL**: SELECT, WHERE, ORDER BY, filtering techniques
-- **Advanced Querying**: JOINs, subqueries, set operations
-- **Data Analysis**: Aggregate functions, grouping, statistical operations
-- **Data Manipulation**: INSERT, UPDATE, DELETE operations
-- **Database Design**: Table creation, modification, constraints
-- **Oracle-Specific Features**: Functions, data types, transaction control
-
 ## 📋 Sample Database Schema
 
 The learning database includes:
